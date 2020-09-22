@@ -1,0 +1,16 @@
+#wrapper {
+    width: 425px; 
+}
+.top-bar {   
+    padding: 20px 10px; 
+    background: rgba(0, 0, 0, 0.4); 
+}
+.logo a {
+    color: #fff;
+}
+.mob-trigger {
+    display: block;
+    width: 22px;
+    height: 14px;
+    background: url('img/menu.svg')
+}
